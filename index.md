@@ -1,4 +1,4 @@
 ---
-title: Welcome to BB
+title: YOUR-TITLE
 ---
 
